@@ -2,8 +2,8 @@
 项目中使用ListView还是挺多的,之前看过几次,很是容易遗忘,今特做记录如下
 
 * Android 6.0 & API Level  23
-* Github:[Nvsleep](https://github.com/Nvsleep)
-* 邮箱:lizhenqiao@126.com
+* Github: [Nvsleep](https://github.com/Nvsleep)
+* 邮箱: lizhenqiao@126.com
 * QQ: 522910000
 
 ###主要从以下几点进行源码分析
